@@ -11,26 +11,42 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 
 }
 .juha{
-    width: 60%;
-    padding-left: 5%;
+    width: 40%;
+    padding-left: 7%;
     text-align: justify;
 }
 .juha img{
-    width: 50%;
+    width: 90%;
 }
 .link{
     text-decoration: none;
     background-image: linear-gradient(rgb(255, 182, 46), rgb(206, 87, 66));
     padding: 10px 40px;
-    border-radius: 7px;
+    border-radius: 5px;
     color: white;
     font-weight: 700;
 }
 .top{
     background-image: url(images/top.png);
     background-repeat: no-repeat;
+
+}
+.kaka{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(180, 196, 93), rgb(104, 104, 80));
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.tk{
+    background-image: url(images/tk.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
 
 }
