@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    
+}
+.fb{
+    color: darkkhaki;
+}
+section{
+    display: flex;
+
+}
+.juha{
+    width: 60%;
+    padding-left: 5%;
+    text-align: justify;
+}
+.juha img{
+    width: 50%;
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 182, 46), rgb(206, 87, 66));
+    padding: 10px 40px;
+    border-radius: 7px;
+    color: white;
+    font-weight: 700;
+}
+.top{
+    background-image: url(images/top.png);
+    background-repeat: no-repeat;
+
+}
